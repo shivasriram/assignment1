@@ -37,7 +37,7 @@ def strings():
 
     # Replace "great" with "good" in variable great and assign it to a new variable good.
 
-    good = great - "great" + "good"
+    good = great
 
     return stevens, stevens_7, length, great, good
 
